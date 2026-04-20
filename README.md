@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning **Python , Ethical Hack 🛡️**<br><br>📝 I regularly write articles on [https://t.me/mrjinx.art](https://t.me/mrjinx.art)<br><br>💬 Ask me about **Frontend**<br><br>📫 How to reach me **hesamrahimiwork@gmail.com**<br><br>⚡ Fun fact **I'm INTJ**
+<br>🌱 I’m currently learning **Fron-End , Back-End**<br><br>📝 I regularly write articles on [https://t.me/mrjinx.art](https://t.me/mrjinx.art)<br><br>💬 Ask me about **Frontend**<br><br>📫 How to reach me **hesamrahimiwork@gmail.com**<br><br>⚡ Fun fact **I'm INTJ**
 
 
 ## 🌐 Socials:
@@ -17,8 +17,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=rahimihesam&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
