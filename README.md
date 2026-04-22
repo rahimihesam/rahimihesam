@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>🌱 I’m currently learning **Fron-End , Back-End**<br><br>📝 I regularly write articles on [https://t.me/mrjinx.art](https://t.me/mrjinx.art)<br><br>💬 Ask me about **Frontend**<br><br>📫 How to reach me **hesamrahimiwork@gmail.com**<br><br>⚡ Fun fact **I'm INTJ**
+# 💫 WHO I am?:
+<br>🌱 I’m currently learning **Fron-End , Back-End**<br><br>📝 I regularly i publish my pics in [https://t.me/mrjinx.art](https://t.me/mrjinx.art)<br><br>💬 Ask me about **Frontend**<br><br>📫 How to reach me **hesamrahimiwork@gmail.com**<br><br>⚡ Fun fact **I'm INTJ**
 
 
 ## 🌐 Socials:
