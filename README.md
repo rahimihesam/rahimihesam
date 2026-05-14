@@ -23,7 +23,7 @@ I'm an **INTJ Frontend Developer** who loves building clean, scalable UIs and di
 
 ## 📂 Featured Projects
 
-- [Scientific Association Site](https://github.com/rahimihesam/Scientific-association-site) – «A modern and responsive website built for a university scientific association, focusing on clean UI, structured content presentation, and smooth navigation. Designed with a scalable frontend architecture suitable for future feature expansion.» 
+- [Scientific Association Site](https://github.com/rahimihesam/Scientific-Association-website) – «A modern and responsive website built for a university scientific association, focusing on clean UI, structured content presentation, and smooth navigation. Designed with a scalable frontend architecture suitable for future feature expansion.» 
 ---
 
 ## 📊 GitHub Stats
