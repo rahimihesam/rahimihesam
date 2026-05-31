@@ -1,46 +1,60 @@
 # Hi, I'm Hesam 👋
 
-I'm an **INTJ Frontend Developer** who loves building clean, scalable UIs and diving deep into web performance, architecture, and developer experience.
+**INTJ Frontend Developer** passionate about crafting clean, high-performance, and scalable user interfaces.
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently focused on **modern frontend stacks** (React, Next.js, TypeScript)
-- 🎯 Interested in **clean architecture**, **design systems**
-- 🎮 Passionate about **video games**, **programming**, and generally anything related to computers
-- 🧩 INTJ personality type – I like systems, structure
+- 🔭 Currently building modern web applications with **React** and **Next.js**
+- 🎯 Focused on **Clean Architecture**, **Design Systems**, and exceptional **Developer Experience (DX)**
+- 🧩 INTJ — I thrive on systems, structure, and deep problem-solving
+- 🎮 When I'm not coding, you'll find me gaming or exploring new technologies
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-- **Languages:** JavaScript (ES6+), HTML/CSS, Python
-- **Frontend:** React, Tailwind CSS, BootStrap
-- **Tools:** Git, GitHub
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+**Tools & Others**  
+Git • GitHub • Figma • VS Code
 
 ---
 
 ## 📂 Featured Projects
 
-- [Scientific Association Site](https://github.com/rahimihesam/Scientific-Association-website) – «A modern and responsive website built for a university scientific association, focusing on clean UI, structured content presentation, and smooth navigation. Designed with a scalable frontend architecture suitable for future feature expansion.» 
+### [Scientific Association Website](https://github.com/rahimihesam/Scientific-Association-website)
+A modern, responsive, and scalable website for a university scientific association. Built with a focus on clean architecture, smooth navigation, and excellent user experience. Designed with future growth in mind.
+
 ---
 
 ## 📊 GitHub Stats
 
 ![Hesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahimihesam&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimihesam&layout=compact&theme=radical)
-
----
-
-## 📫 Contact
-
-- Email: *hesamrahimiwork@gmail.com*  
-- LinkedIn: *https://www.linkedin.com/in/hesam-rahimi-579a72340/*
-- Telegram: *https://t.me/hesamrahimiwork*
-- Instagram: *https://www.instagram.com/hesamrahimiwork*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimihesam&layout=compact&theme=radical)
 
 ---
 
-> Always learning, always refactoring – both code and life.
+## 📫 Let's Connect
+
+- **Email**: [hesamrahimiwork@gmail.com](mailto:hesamrahimiwork@gmail.com)
+- **LinkedIn**: [Hesam Rahimi](https://www.linkedin.com/in/hesam-rahimi-579a72340/)
+- **Telegram**: [@hesamrahimiwork](https://t.me/hesamrahimiwork)
+- **Instagram**: [@hesamrahimiwork](https://www.instagram.com/hesamrahimiwork)
+
+---
+
+> Always learning, always refactoring — both code and life.
