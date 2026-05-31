@@ -38,8 +38,8 @@ I'm an **INTJ Frontend Developer** who loves building clean, scalable UIs and di
 
 - Email: *hesamrahimiwork@gmail.com*  
 - LinkedIn: *https://www.linkedin.com/in/hesam-rahimi-579a72340/*
-- Telegram: *https://t.me/mrjinnx*
-- Instagram: *https://www.instagram.com/mrjinx.art*
+- Telegram: *https://t.me/hesamrahimiwork*
+- Instagram: *https://www.instagram.com/hesamrahimiwork*
 
 ---
 
