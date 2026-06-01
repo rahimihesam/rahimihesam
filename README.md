@@ -46,7 +46,7 @@ A modern, responsive, and scalable website for a university scientific associati
 ## 📫 Let's Connect
 
 - **Email**: [hesamrahimiwork@gmail.com](mailto:hesamrahimiwork@gmail.com)
-- **LinkedIn**: [Hesam Rahimi](https://www.linkedin.com/in/hesam-rahimi-579a72340/)
+- **LinkedIn**: [Hesam Rahimi](https://www.linkedin.com/in/hesam-rahimi-b25963383/)
 - **Telegram**: [@hesamrahimiwork](https://t.me/hesamrahimiwork)
 - **Instagram**: [@hesamrahimiwork](https://www.instagram.com/hesamrahimiwork)
 
